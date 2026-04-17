@@ -65,12 +65,14 @@ A Focus Tech é uma software house especializada em transformar ideias em soluç
 
 ---
 
+
 ## ⚡ Diferenciais Focus Tech
 
 - ✔️ Soluções 100% personalizadas
 - ✔️ Foco em resultado e escalabilidade
 - ✔️ Integração com ferramentas modernas
 - ✔️ Mentalidade de startup e inovação contínua
+
 
 ---
 
