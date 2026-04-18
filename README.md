@@ -25,7 +25,7 @@ A Focus Tech é uma software house especializada em transformar ideias em soluç
 
 
 
-## 🚀 Nossos Serviços
+##  Nossos Serviços
 
 - 🔹 **Desenvolvimento de Sistemas Web**  
   Plataformas completas, dashboards e sistemas sob medida para o seu negócio
